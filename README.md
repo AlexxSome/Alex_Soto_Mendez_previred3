@@ -1,4 +1,5 @@
-#1. Descripcion
+#1. Descripcion:
+
 	- Se incluye "lib\Generador_Datos_Desafio_Tres-1.0.0.jar" como dependencia dentro del proyecto para realizar los solicitado (Maven):
 	
 		- Consumir la función getRango de la clase com.previred.desafio.tres.uf.Valores 
@@ -8,8 +9,10 @@
 		- Para la implementación debe elegir uno de los siguientes formatos de salida.
 		
 		** Se lista informacion por consola 
+		** El codigo se encuentra comentado para una lectura mas fácil
 
-#2. Tecnología y librerías utilizadas
+#2. Tecnología y librerías utilizadas:
+
 	- Java 8
 	- Maven
 	- Log4j
@@ -18,11 +21,14 @@
 	- JSON-P
 	- opencsv (para realizar prueba de generación archivo csv)
 
-#3. Detalle de compilación y ejecución
+#3. Detalle de compilación y ejecución:
+
 	Montar proyecto en IDE Eclipse, actualizar proyecto con maven para descargar librerias de ser necesario
 	Cambiar ruta para generación de archivo JSON
 	Ejecutar como aplicacion java
-#4. Datos
+	
+#4. Datos:
+
 	- Alex Andres Soto Méndez
 	- alex.soto.29.9.88@gmail.com - +56942896734
 	- Leonardo Miranda: Tech Consult

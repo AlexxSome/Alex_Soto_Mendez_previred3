@@ -209,7 +209,7 @@ public class App
 			logger.debug(e);
 		}
     }
-    
+    //Transformar Lista a String arrray
     private static List<String[]> toArrayString(List<Uf> lista){
         List<String[]> records = new ArrayList<String[]>();
         //Cabecera del archivo
